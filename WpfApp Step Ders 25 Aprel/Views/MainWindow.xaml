@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp_Step_Ders_25_Aprel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"        
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_Step_Ders_25_Aprel" xmlns:i="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <ComboBox ItemsSource="{Binding Printers}" DisplayMemberPath="Color" SelectedItem="{Binding Printer}">
+
+        </ComboBox>
+        
+        <Label>Model</Label>
+        <TextBlock FontSize="30" Text="{Binding Printer.Model}"></TextBlock>
+        
+        <Label>Vendor</Label>
+        <TextBlock FontSize="30" Text="{Binding Printer.Vendor}"></TextBlock>
+        
+        <Label>Color</Label>
+        <TextBlock FontSize="30" Text="{Binding Printer.Color}"></TextBlock>
+
+        <Button Command="{Binding ShowCommand}" Margin="10" FontSize="26">Show Data</Button>
+        <Button Command="{Binding EditCommand}" Margin="10" FontSize="26">Edit</Button>
+        
+    </StackPanel>
+</Window>

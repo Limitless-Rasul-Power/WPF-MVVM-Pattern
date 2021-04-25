@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\bin\Debug\WpfApp Step Ders 25 Aprel.exe.config
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\bin\Debug\WpfApp Step Ders 25 Aprel.exe
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\bin\Debug\WpfApp Step Ders 25 Aprel.pdb
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel.g.resources
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp_Step_Ders_25_Aprel.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel.exe
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel.pdb
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\Views\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\WpfApp Step Ders 25 Aprel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\Views\EditView.g.cs
+C:\Users\Admin\source\repos\WpfApp Step Ders 25 Aprel\WpfApp Step Ders 25 Aprel\obj\Debug\Views\EditView.baml
